@@ -7,7 +7,7 @@ How to Manage Your Total Defense Login Account?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://iolosystemmechanicloginaccount.readthedocs.io/en/latest/_images/login.png
+.. image:: login.png
    :alt: My Project Logo
    :width: 400px
    :align: center
